@@ -1,5 +1,7 @@
 # **Week 2 — Parallel Thinking & CUDA Programming Basics**
 
+Read the assignemtn_2.pdf in this folder to learn more, only basic things here.
+
 This week marks the transition from high-level GPU intuition to **writing your first CUDA code**.
 Mapped data-parallel problems onto threads, blocks, and grids. Further optimization in week-3.
 
